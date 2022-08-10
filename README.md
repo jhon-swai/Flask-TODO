@@ -28,6 +28,13 @@ pip install -r requirements.txt
 ```
 
 ## Before running the application
+
+### config file
+Steps to create a config file
+- Create a copy of sample.config
+- rename it to config.py
+- optional: change the location and set the path 
+
 ### CMD/windows
 ```
 set FLASK_APP=app
